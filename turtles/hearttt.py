@@ -8,14 +8,14 @@ hideturtle()
 color("red")
 left(90)
 for i in range(250):
-    right(120)
+    right(140)
     forward(i)
-    left(60)
+    left(70)
     forward(i)
-for i in range(750,0,-1):
-    right(120)
+for i in range(750,50,-1):
+    right(140)
     forward(i/3)
-    left(60)
+    left(70)
     forward(i/3)
 
 

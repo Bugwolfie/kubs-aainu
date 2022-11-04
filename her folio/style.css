@@ -5,19 +5,19 @@ html {
 body {
     font-family: 'Handlee', cursive;
     font-size: 13pt;
-    background-color: #6d6363;
+    background-color: white;
     padding: 10px;
     margin: 0;
 }
 h1 {
     font-size: 15pt;
-    color: #20bcd5;
+    color: #0b262b;
     text-align: center;
     padding: 18px 0 18px 0;
     margin: 0 0 10px 0;
 }
 h1 span {
-    border: 4px dashed #20bcd5;
+    border: 4px dashed #0a2327;
     padding: 10px;
 }
 p {
@@ -29,7 +29,7 @@ p {
     border-radius: 70%;
 }
 .section {
-    background-color: rgb(117, 108, 108);
+    background-color: rgb(247, 243, 243);
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
@@ -46,7 +46,7 @@ p {
 }
 #header p {
     font-size: 25pt;
-    color: #5e28dd;
+    color: #241053;
     padding-top: 5px;
     margin: 0;
     font-weight: bold;
@@ -68,7 +68,7 @@ table, th, td {
     table-layout: fixed;
 }
 .selected {
-    background-color: #f35f32;
+    background-color: #572a1c;
     font-weight: bold;
     color: white;
 }
@@ -79,17 +79,17 @@ li {
 progress {
     width: 70%;
     height: 20px;
-    color: #e90a27;
+    color: #64383e;
     background: #f8e8e8;
 }
 progress::-webkit-progress-bar {
     background: #f1e1e1;
 }
 progress::-webkit-progress-value {
-    background: #d4150e;
+    background: #310d0c;
 } 
 progress::-moz-progress-bar {
-    color: #da251f;
+    color: #300b0a;
     background: #918282;
 }
 iframe, audio {
@@ -107,7 +107,7 @@ form {
     margin-top: 0;
 }
 .submit {
-    background-color: #9c23a0;
+    background-color: #745875;
     padding: 12px 45px;
     border-radius: 5px;
     cursor: pointer;
@@ -118,7 +118,7 @@ form {
     font-weight: bold;
 }
 .submit:hover {
-    background-color: #43a09d;
+    background-color: #284443;
 }
 textarea {
     height: 100px;
