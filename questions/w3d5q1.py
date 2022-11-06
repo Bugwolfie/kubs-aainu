@@ -47,9 +47,7 @@ k.set_marks()
 
 
 
-'''Q2. Create a Circle class and initialize it with radius. Make two methods
-getArea and getCircumference inside this class.
-(Easy) (5 marks)'''
+
 
 
 
